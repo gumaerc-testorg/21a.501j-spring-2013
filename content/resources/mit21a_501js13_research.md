@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e128275c-2666-f6b9-62cb-7cddde5a4699
 resourcetype: Document
 title: Research Paper Style Sheet
 uid: 8d9354d1-45d8-a289-5936-18cca98af236
