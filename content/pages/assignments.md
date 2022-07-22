@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides details on the four short written assignments and
+  the final term paper required for the course, examples of student work, and links
+  to related resources.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e128275c-2666-f6b9-62cb-7cddde5a4699
 ---
@@ -32,11 +38,11 @@ Final Term Paper
 
 The final term paper, combining library / online research and analysis, will give you an opportunity to explore in depth central themes of the course. It should be 10–12 pages, and will be worth 40% of your final grade.
 
-[Research Paper Style Sheet (PDF)]({{< baseurl >}}/resources/mit21a_501js13_research)
+{{% resource_link 8d9354d1-45d8-a289-5936-18cca98af236 "Research Paper Style Sheet (PDF)" %}}
 
 ### Student Example
 
-["Photography as Skilled Practice" (PDF)]({{< baseurl >}}/resources/mit21a_501js13_photography) by Natalia Guerrero. (Courtesy of Natalia Guerrero)
+{{% resource_link 929eef61-d1ee-bfba-c53e-8d10b375c83b "\"Photography as Skilled Practice\" (PDF)" %}} by Natalia Guerrero. (Courtesy of Natalia Guerrero)
 
 This paper received an honorable mention award from MIT's Anthropology Program for the [2014 James Howe Prize](http://web.mit.edu/anthropology/undergraduate/howeprize.html).
 

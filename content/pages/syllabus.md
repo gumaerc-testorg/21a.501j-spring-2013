@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, and readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7dd73d7e-df4a-a068-5e94-ac24ccd26349
 ---
@@ -81,7 +85,7 @@ Final Term Paper
 
 {{< tableclose >}}
 
-For further detail on the written assignments and the final term paper, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on the written assignments and the final term paper, please see the {{% resource_link e128275c-2666-f6b9-62cb-7cddde5a4699 "Assignments" %}} section.
 
 Readings
 --------
@@ -92,4 +96,4 @@ Paxson, Heather. _The Life of Cheese: Crafting Food and Value in America_. Unive
 
 Adamson, Glenn, ed. _The Craft Reader_. Bloomsbury Academic, 2010. ISBN: 9781847883032.
 
-For further detail on the remaining readings, please see the [Readings]({{< baseurl >}}/pages/readings) section.
+For further detail on the remaining readings, please see the {{% resource_link 1d3c7d4e-00a5-1dd4-4067-f3bed9784fdf "Readings" %}} section.
