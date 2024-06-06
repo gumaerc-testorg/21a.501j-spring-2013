@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for the final term paper required for the course.
 file: /courses/21a-501j-art-craft-science-spring-2013/8d9354d145d8a289593618cca98af236_MIT21A_501JS13_Research.pdf
+file_size: 118930
 file_type: application/pdf
 learning_resource_types:
 - Assignments
