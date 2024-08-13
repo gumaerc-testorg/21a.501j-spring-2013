@@ -91,7 +91,7 @@ Schaffer, Simon. "[Babbage's Intelligence: Calculating Engines and the Factory S
 
 Artisanship and modernist craft revival (and re-revival)
 
-*Screening:*   
+*Screening:*    
 Excerpts from [*Craft in America*](http://www.pbs.org/craftinamerica/tv_series.php), pbs.org.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -198,7 +198,7 @@ Herzfeld, Michael. "Schooling the Body." Chapter 2 in *The Body Impolitic: Artis
 
 Craft and value in a global economy
 
-*Screening:*   
+*Screening:*    
 Clip from [*Mardi Gras: Made in China*](http://carnivalesquefilms.com/films/mardigras/). Directed by David Redmon. Color, 72 min. 2005.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -215,7 +215,7 @@ Sylvanus, Nina. "[The Fabric of Africanity: Tracing the Global Threads of Authen
 
 \[Adamson\] Chapter 61: Tulloch, Carole. "There's No Place Like Home: Home Dressmaking and Creativity in the Jamaican Community of the 1940s to the 1960s."
 
-Click around the [Global Mamas](http://www.globalmamas.com/Default) site to get a sense of the organization, its production and distribution methods, and products.
+Click around the [Global Mamas](https://globalmamas.org/) site to get a sense of the organization, its production and distribution methods, and products.
 
 ### Optional
 
@@ -233,7 +233,7 @@ Feng, Xianghong. "[Gender and Hmong Women's Handicrafts in Fenghuang's 'Tourism 
 
 Design politics
 
-*Guest lecturer:*   
+*Guest lecturer:*    
 [Dr. Sonia Matos](https://www.eca.ed.ac.uk/profile/dr-sonia-matos), Lecturer, Design Context, Edinburgh College of Art
 
 {{< tdclose >}}{{< tdopen >}}
@@ -254,7 +254,7 @@ Bonsiepe, Gui. "[Design and Democracy](http://dx.doi.org/10.1162/desi.2006.22.2.
 9
 {{< tdclose >}}{{< tdopen >}}
 
-*Screening:*   
+*Screening:*    
 [*Jiro Dreams of Sushi*](http://www.imdb.com/title/tt1772925/). Directed by David Gelb. Color, 81 min. 2011.
 
 Q&A with [Dr. Theodore C. Bestor](http://www.people.fas.harvard.edu/%7Ebestor/), Reischauer Institute Professor of Social Anthropology, Harvard University
@@ -285,7 +285,7 @@ Artisan lives and artisanal cheese
 
 Craft publics: collecting and display
 
-*Guest lecturer:*   
+*Guest lecturer:*    
 Alessandro Angelini, PhD Candidate in Anthropology, The Graduate Center, City University of New York
 
 *Screening:*[\_ The Quiltmakers of Gee’s Bend\_](http://www.aptv.org/docs/detail.asp?DocID=11). Directed by Celia Carey. Color, 60 min. 2005.
@@ -312,7 +312,7 @@ Myers, Fred. ["Ontologies of the Image and Economies of Exchange](http://dx.doi.
 
 The quest for authenticity: from craft tourism to craftivism
 
-*Screening:*   
+*Screening:*    
 Excerpts from *Handmade Nation.* Directed by Faythe Levine. Color, 90 min. 2009.
 
 Jenine Providence. "Handmade Nation Trailer." January 19, 2009. YouTube. Accessed August 27, 2014. [https://www.youtube.com/watch?v=iwFbMFqfsKM](https://www.youtube.com/watch?v=iwFbMFqfsKM)
