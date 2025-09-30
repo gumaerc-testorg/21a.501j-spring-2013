@@ -41,7 +41,7 @@ Assignment 1 due
 Artisanship and modernist craft revival (and re-revival)
 
 *Screening:*   
-Excerpts from [*Craft in America*](http://www.pbs.org/craftinamerica/tv_series.php), pbs.org.
+Excerpts from {{% resource_link "3f2a688d-c865-4f34-82a2-6a30a03c30db" "*Craft in America*" %}}, pbs.org.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -68,7 +68,7 @@ Assignment 3 due
 Craft and value in a global economy
 
 *Screening:*   
-Clip from [*Mardi Gras: Made in China*](http://carnivalesquefilms.com/films/mardigras/). Directed by David Redmon. Color, 72 min. 2005.
+Clip from {{% resource_link "ec7928d6-4825-476c-b2f9-c94ddebf77ae" "*Mardi Gras: Made in China*" %}}. Directed by David Redmon. Color, 72 min. 2005.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -88,9 +88,9 @@ Dr. Sonia Matos, Lecturer, Design Context, Edinburgh College of Art
 {{< tdclose >}}{{< tdopen >}}
 
 *Screening:*   
-[*Jiro Dreams of Sushi*](http://www.imdb.com/title/tt1772925/). Directed by David Gelb. Color, 81 min. 2011.
+{{% resource_link "09398b08-d1e8-4232-bf34-29542bf333d2" "*Jiro Dreams of Sushi*" %}}. Directed by David Gelb. Color, 81 min. 2011.
 
-Q&A with [Dr. Theodore C. Bestor](http://www.people.fas.harvard.edu/~bestor/), Reischauer Institute Professor of Social Anthropology, Harvard University
+Q&A with {{% resource_link "d9fc3946-9a2e-4a9f-9a98-ef066f6d03e0" "Dr. Theodore C. Bestor" %}}, Reischauer Institute Professor of Social Anthropology, Harvard University
 
 {{< tdclose >}}{{< tdopen >}}
 Final paper proposal due
@@ -113,7 +113,7 @@ Craft publics: collecting and display
 *Guest lecturer:*   
 Alessandro Angelini, PhD Candidate in Anthropology, The Graduate Center, City University of New York
 
-*Screening:*[\_ The Quiltmakers of Gee’s Bend\_](http://www.aptv.org/docs/detail.asp?DocID=11). Directed by Celia Carey. Color, 60 min. 2005.
+*Screening:*{{% resource_link "d28aa105-778e-4023-bff6-fa4d1bea2a60" "\_ The Quiltmakers of Gee’s Bend\_" %}}. Directed by Celia Carey. Color, 60 min. 2005.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -126,7 +126,7 @@ The quest for authenticity: from craft tourism to craftivism
 *Screening:*   
 Excerpts from *Handmade Nation.* Directed by Faythe Levine. Color, 90 min. 2009.
 
-Jenine Providence. "Handmade Nation Trailer." January 19, 2009. YouTube. Accessed August 27, 2014. [https://www.youtube.com/watch?v=iwFbMFqfsKM](https://www.youtube.com/watch?v=iwFbMFqfsKM)
+Jenine Providence. "Handmade Nation Trailer." January 19, 2009. YouTube. Accessed August 27, 2014. {{% resource_link "fe9e8ac8-31cc-48ec-9d74-baf88978122b" "https://www.youtube.com/watch?v=iwFbMFqfsKM" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
