@@ -25,7 +25,7 @@ This course examines how people learn, practice, and evaluate traditional and co
 
 Classes will combine lecture and discussion. Each class is keyed to a set of readings, and it is crucial that students keep up with the readings and be prepared to discuss them in class. Some lectures will directly engage our readings while others (including guest lectures) will provide contextualizing historical and theoretical information and/or offer case study illustrations. Occasionally we may break into small groups for more concentrated discussion. Class participation—regular attendance and participation in discussion—will count strongly towards the final grade.
 
-We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the Office of Student Citizenship or Committee on Discipline. But not to worry! There are many sources of support around campus if you get overwhelmed. Check out [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/handbook/helping-you-succeed-resources).
+We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the Office of Student Citizenship or Committee on Discipline. But not to worry! There are many sources of support around campus if you get overwhelmed. Check out {{% resource_link "22d11074-54fb-4d30-bf7d-927b246c382e" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Requirements and Grading
 ------------------------
@@ -92,7 +92,7 @@ Readings
 
 Two books are required for this course.
 
-Paxson, Heather. _The Life of Cheese: Crafting Food and Value in America_. University of California Press, 2012. ISBN: 9780520270183. \[Preview with [Google Books](http://books.google.com/books?id=tVh3p9yaIPgC&pg=PAfrontcover)\]
+Paxson, Heather. _The Life of Cheese: Crafting Food and Value in America_. University of California Press, 2012. ISBN: 9780520270183. \[Preview with {{% resource_link "d155e418-d92a-49dc-8fd1-12dec26d46bd" "Google Books" %}}\]
 
 Adamson, Glenn, ed. _The Craft Reader_. Bloomsbury Academic, 2010. ISBN: 9781847883032.
 

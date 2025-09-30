@@ -44,11 +44,11 @@ The final term paper, combining library / online research and analysis, will giv
 
 {{% resource_link 929eef61-d1ee-bfba-c53e-8d10b375c83b "\"Photography as Skilled Practice\" (PDF)" %}} by Natalia Guerrero. (Courtesy of Natalia Guerrero)
 
-This paper received an honorable mention award from MIT's Anthropology Program for the [2014 James Howe Prize](http://web.mit.edu/anthropology/undergraduate/howeprize.html).
+This paper received an honorable mention award from MIT's Anthropology Program for the {{% resource_link "75533d2a-b425-439f-9481-7d24ebe0f822" "2014 James Howe Prize" %}}.
 
 Related Resources
 -----------------
 
-[MIT Library Resources for Anthropology and Archaeology](http://libguides.mit.edu/anthro)
+{{% resource_link "9bb90799-9ee5-487a-924a-5a5c27b784d8" "MIT Library Resources for Anthropology and Archaeology" %}}
 
-[MIT Library Resources for Science, Technology, & Society (STS)](http://libguides.mit.edu/sts)
+{{% resource_link "c34c82d0-612d-4ae8-8fb5-18220e272e00" "MIT Library Resources for Science, Technology, & Society (STS)" %}}
